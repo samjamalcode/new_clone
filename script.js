@@ -22,14 +22,15 @@ for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i])
 }
 
-<<<<<<< Updated upstream
+
 const myOperation = function(a, b) {
-    if (a >= 10) {
+    if (a >= 10 && b< 2) {
         console.log("a >= 10");
     } else {
         console.log("The end!");
     }
+
 }
-=======
+
 let newArray = [1, 2, 3, "sam"];
->>>>>>> Stashed changes
+
