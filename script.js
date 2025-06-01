@@ -22,6 +22,7 @@ for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i])
 }
 
+<<<<<<< Updated upstream
 const myOperation = function(a, b) {
     if (a >= 10) {
         console.log("a >= 10");
@@ -29,3 +30,6 @@ const myOperation = function(a, b) {
         console.log("The end!");
     }
 }
+=======
+let newArray = [1, 2, 3, "sam"];
+>>>>>>> Stashed changes
