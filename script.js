@@ -20,3 +20,8 @@ for (let value of newSet){
 for (let i = 0; i < myArray.length; i++) {
     console.log(myArray[i])
 }
+
+const minusFunction = function(a, b) {
+    return a -b;
+}
+console.log(minusFunction(200, 1000));
