@@ -34,3 +34,5 @@ const myOperation = function(a, b) {
 
 let newArray = [1, 2, 3, "sam"];
 
+console.log("Hello Mother Fucker!");
+
