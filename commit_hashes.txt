@@ -1,0 +1,35 @@
+d18e849 added text line
+79db4af sync both branches
+7ba63f5 Modified script.js
+e01a6c0 Solved conflict
+868b779 Created .gitignore and added .git
+c32e770 add another function
+01d2902 Resolve problem
+c50b1f6 new modification
+9d50c14 Add a new function
+41c5dbb Styled subheader
+8717459 update puppy branch with main
+e8e3d30 Add some changes
+0cfd8dc looping the function
+4c694c3 edited readme file
+44553fc Created README.md
+e1bc164 merage with origin
+eb58d82 Up todate
+442022e Merge pull request #4 from samjamalcode/feature4
+e578358 Conflic resolved
+0029e2f Merge pull request #3 from samjamalcode/feature3
+642ec07 feature4
+51d44c3 feature3
+0264310 delete feature 2
+1d65c86 Merge pull request #2 from samjamalcode/feature2
+7634d72 Merge branch 'main' into feature2
+936eb9b Merge pull request #1 from samjamalcode/feature1
+10b321b feature2
+98e60d8 feature1
+9a2b41a feature
+8b120d7 delete feature
+78aae5a feature2
+0676fc7 feature
+a870375 Commit delete feature
+26367b0 feature2
+ac704fe Initial commit
